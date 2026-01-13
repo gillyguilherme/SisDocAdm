@@ -1,0 +1,13 @@
+.dashboard {
+background: #f1f5f9;
+min-height: 100vh;
+padding: 32px;
+}
+
+
+.card {
+background: white;
+padding: 24px;
+border-radius: 12px;
+box-shadow: 0 6px 16px rgba(0,0,0,0.08);
+}
